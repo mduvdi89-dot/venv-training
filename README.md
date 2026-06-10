@@ -51,5 +51,3 @@ pip freeze > requirements.txt
 ```
 
 ---
-👤 **Created by Mahan**
-```
